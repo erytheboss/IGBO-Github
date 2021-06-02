@@ -1,2 +1,2 @@
-# IGBO-Github
- A powerful discord bot. Born to perform
+# IGBO
+ The official project of IGBO
