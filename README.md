@@ -1,2 +1,2 @@
 # IGBO
- The official project of IGBO
+ The official project of **IGBO**
